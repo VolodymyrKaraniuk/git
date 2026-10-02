@@ -12,5 +12,6 @@ void main() {
 
         //cos
         //cos 2
+        //jakies zmiany
     }
 }
