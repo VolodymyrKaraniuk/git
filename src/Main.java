@@ -11,5 +11,6 @@ void main() {
         IO.println("i = " + i);
 
         //cos
+        //cos 2
     }
 }
