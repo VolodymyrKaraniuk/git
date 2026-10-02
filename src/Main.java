@@ -13,6 +13,11 @@ void main() {
         //cos
         //cos 2
         //jakies zmiany
+
         //zmiana master
+
+
+        //zmiana na branchu 2
+
     }
 }
